@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://cloud.appwrite.io/:splat"
+  status = 301
+  force = true
